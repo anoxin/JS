@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.list {
+  margin: 30px;
+}
+li {
+  margin-bottom: 30px;
+  list-style-type: none;
+}
+
+p {
+  margin-bottom: 5px;
+}
